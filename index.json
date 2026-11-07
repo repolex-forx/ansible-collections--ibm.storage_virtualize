@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "ibm.storage_virtualize",
+  "versions": [
+    {
+      "commit": "217f5425a5f631bf5a979e84b918abcb90375763",
+      "tag": "",
+      "parsed_at": "2026-11-07T17:58:56.664267+00:00"
+    }
+  ]
+}
